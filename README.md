@@ -9,7 +9,7 @@ Currently based in the Netherlands and pursuing my MSc in Data Science & Society
 
 ## 🚀 Featured Projects
 
-### ⭐ City Review — Full-Stack Review Platform (Java / Spring Boot)
+### ⭐ City Review — Backend Voucher FLash-Sale Platform (Java / Spring Boot)
 **Spring Boot · JPA · Flyway · Spring Security · JWT · Docker · GitHub Actions · AWS**
 
 A production-style backend for discovering and reviewing local businesses.  
@@ -28,7 +28,7 @@ and planned features such as geo-search (Redis GEO), check-ins (Bitmap), and UV 
 
 ---
 
-### ⭐ Sky Takeout — Multi-Module Food Delivery Backend  
+### ⭐ Sky Takeout — Backend End2End Food Delivery Platform (Java / Spring Boot)
 **Java · Spring Boot · MySQL · Redis · WebSocket · JWT**
 
 A multi-role restaurant + customer backend system inspired by real-world takeout platforms.  
@@ -105,8 +105,8 @@ Django system that checks hardware compatibility and recommends optimized builds
 ## 🎓 Education
 
 **Tilburg University — MSc Data Science & Society (2024–Present)**  
-Courses: Reproducibility & Deployment (Docker, CI/CD), ML, SQL & Data Systems
-
+Courses: Machine Learning(Python), Reproducibility & Deployment (Docker, CI/CD), Interactive Data Transformation(SQL, Spark)
+**Peking University — Juris Master of Financial Law (2022-2024)**
 **Peking University — Bachelor of Law (2018–2022)**
 
 ---
