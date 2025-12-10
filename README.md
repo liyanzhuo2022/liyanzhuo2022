@@ -105,8 +105,7 @@ Django system that checks hardware compatibility and recommends optimized builds
 ## 🎓 Education
 
 **Tilburg University — MSc Data Science & Society (2024–Present)**  
-
-Courses: Machine Learning(Python), Reproducibility & Deployment (Docker, CI/CD), Interactive Data Transformation(SQL, Spark)
+Courses: Machine Learning(Python, Scikit-Learn), Reproducibility & Deployment (Docker, CI/CD), Interactive Data Transformation(SQL, Spark)
 
 **Peking University — Juris Master of Financial Law (2022-2024)**
 
