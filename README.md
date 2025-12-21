@@ -114,5 +114,5 @@ Courses: Machine Learning(Python, Scikit-Learn), Reproducibility & Deployment (D
 ---
 
 ## ✉️ Contact  
-📧 liyanzhuo2000@outlook.com  
+📧 Email: liyanzhuo2000@outlook.com  
 🔗 LinkedIn: https://www.linkedin.com/in/yanzhuo-li-72b2b9337/  
